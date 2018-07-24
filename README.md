@@ -1,4 +1,7 @@
 # data Engineering Utils
+
+**This package has been replaced with etl_manager**
+
 A python package containing functions that help manage our data management processes on AWS
 
 To install this package
